@@ -1,19 +1,6 @@
-# Binar Car Rental - React App
+# Front-End
 
-Repository ini digunakan untuk menyelesaikan Challenge 7 pada kelas Full-Stack Web Dev SYNRGY Academy
-
-# Dokumentasi Endpoint
-
-| Endpoint                | Deskripsi                      |
-| ----------------------- | ------------------------------ |
-| http://{localhost}/     | Navigasi ke landing page       |
-| http://{localhost}/cars | Navigasi ke halaman cari mobil |
-
-# Cara Menjalankan Project
-
-- Clone repository ini ke directory yang telah ditentukan
-- Jalankan perintah `npm install` untuk menginstall semua dependencies yang dibutuhkan
-- Jalankan perintah `npm run dev` untuk menjalankan aplikasi di localhost
+Folder ini digunakan sebagai sisi Front-End untuk menyelesaikan Challenge 7 pada kelas Full-Stack Web Dev SYNRGY Academy
 
 ### Landing Page
 
