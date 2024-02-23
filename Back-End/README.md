@@ -1,6 +1,6 @@
-# Car Management API
+# Back-End 
 
-Repository ini digunakan untuk menyelesaikan Challenge 6 pada kelas Full-Stack Web Dev SYNRGY Academy
+Folder ini digunakan sebagai sisi Back-End untuk menyelesaikan Challenge 8 pada kelas Full-Stack Web Dev SYNRGY Academy
 
 Dokumentasi API menggunakan Swagger di : http://localhost:8000/docs
 
